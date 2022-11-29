@@ -134,4 +134,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 LOGIN_URL = 'users:login'
 
 DEBUG = True
-ALLOWED_HOSTS = ['learning-logs-0i7q.onrender.com']
+ALLOWED_HOSTS = ['learning-logs-0i7q.onrender.com','127.0.0.1']
