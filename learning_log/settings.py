@@ -132,3 +132,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # 我的设置
 LOGIN_URL = 'users:login'
+
+DEBUG = True
+ALLOWED_HOSTS = ['learning-logs-0i7q.onrender.com']
